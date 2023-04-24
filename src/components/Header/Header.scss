@@ -1,0 +1,14 @@
+.header {
+   border-radius: .25rem;
+   color: #ffffff;
+
+   &__text {
+      padding: .25rem;
+      margin: 0;
+   }
+}
+
+.construction {
+   font-size: clamp(1.5rem, 4vw + 1rem, 3rem);
+   color: #dea731;
+}

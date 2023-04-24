@@ -1,0 +1,8 @@
+.image {
+   // width: clamp(3rem, 4vh, 8rem);
+   // height: auto;
+
+   &__photo {
+      max-width: 100%;
+   }
+}
