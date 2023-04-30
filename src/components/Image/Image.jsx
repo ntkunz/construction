@@ -1,5 +1,5 @@
 import './Image.scss';
-import constructionImage from '../../assets/nicholas_construction_crop.png';
+import constructionImage from '../../assets/nicholas_construction_crop_small.jpg';
 
 export default function Image() {
    return (

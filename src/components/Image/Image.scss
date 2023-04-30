@@ -1,6 +1,5 @@
 .image {
-   // width: clamp(3rem, 4vh, 8rem);
-   // height: auto;
+   align-self: flex-start;
 
    &__photo {
       max-width: 100%;
