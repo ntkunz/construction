@@ -13,9 +13,9 @@
 body {
   margin: 0;
   min-width: 320px;
-  min-height: 100vh;
   background-color: #000000;
   border-top: .25rem dashed #dea731;
+  box-sizing: border-box;
 }
 
 h1 {
