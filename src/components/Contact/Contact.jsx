@@ -11,6 +11,14 @@ export default function Contact() {
 				LinkedIn
 			</a>
 
+			<a href="./Nicholas_Kunz_Resume.pdf" className="contact__link" download>
+				Resume
+			</a>
+
+			<a href="https://www.helping-neighbors.nicholaskunz.com" className="contact__link">
+				Current Project
+			</a>
+
 			<a
 				href="mailto:mrnicholaskunz@gmail.com?subject=Connecting from NicholasKunz.com"
 				className="contact__link"
@@ -18,9 +26,7 @@ export default function Contact() {
 				Email
 			</a>
 
-			<a href="./Nicholas_Kunz_Resume.pdf" className="contact__link" download>
-				Resume
-			</a>
+
 		</nav>
 	);
 }
