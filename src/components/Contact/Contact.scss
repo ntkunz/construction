@@ -1,9 +1,7 @@
 .contact {
    display: flex;
-   flex-wrap: wrap;
    flex-direction: column;
-   justify-content: flex-end;
    height: 100%;
-   padding: .25rem;
-   gap: .375rem;
+   padding: .125 rem;
+   gap: .25rem;
 }
