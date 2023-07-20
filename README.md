@@ -1,3 +1,3 @@
 #NicholasKunz.com
 
-Currently a temporary site built as a placeholder while I finalize my portfolio
+A few ways to contact me and see what I've been up to. 
