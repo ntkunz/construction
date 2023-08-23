@@ -4,10 +4,9 @@ import Contact from "./components/Contact/Contact";
 import Image from "./components/Image/Image";
 
 function App() {
-
 	return (
-		<div className="container">
-			<div className="text-group">
+		<div className='container'>
+			<div className='text-group'>
 				<Header />
 				<Contact />
 			</div>

@@ -19,7 +19,10 @@ export default function Contact() {
 				LinkedIn
 			</a>
 
-			<a href='./Nicholas_Kunz_Resume.pdf' className='contact__link' download>
+			<a
+				href='/Nicholas_Kunz_Resume.pdf'
+				download='Nicholas_Kunz_Resume.pdf'
+				className='contact__link'>
 				Resume
 			</a>
 

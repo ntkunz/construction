@@ -1,15 +1,15 @@
 .header {
-   border-radius: .25rem;
-   color: #ffffff;
+	border-radius: 0.25rem;
+	color: #ffffff;
 
-   &__text {
-      font-size: clamp(.8rem, 3vw + .75rem, 1.25rem);
-      padding: .25rem;
-      margin: 0;
-   }
+	&__text {
+		font-size: clamp(0.8rem, 3vw + 0.75rem, 1.25rem);
+		padding: 0.25rem;
+		margin: 0;
+	}
 }
 
 .construction {
-   font-size: clamp(1rem, 3vw + .625rem, 2rem);
-   color: #dea731;
+	font-size: clamp(1rem, 3vw + 0.625rem, 2rem);
+	color: #dea731;
 }
