@@ -20,8 +20,8 @@ export default function Contact() {
 			</a>
 
 			<a
-				href='/Nicholas_Kunz_Resume.pdf'
-				download='Nicholas_Kunz_Resume.pdf'
+				href='/Nicholas-Kunz-Resume.pdf'
+				download='Nicholas-Kunz-Resume.pdf'
 				className='contact__link'>
 				Resume
 			</a>
