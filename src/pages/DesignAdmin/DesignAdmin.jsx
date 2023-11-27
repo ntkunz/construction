@@ -57,22 +57,18 @@ export default function DesignAdmin() {
       <main className="design-admin">
          <h1>Good day design office!</h1>
          <h2>I am applying to your administration position</h2>
-         <p>I've added here some design examples from my past. I understand that the position is for admin duties, not design work. I didn't feel it would hurt to show that I can assist in multiple ways if ever needed</p>
+
+         <h3>Technologies I've worked with</h3>
+         <ul><li>Adobe Photoshop</li><li>Adobe InDesign</li><li>Adobe Illustrator</li><li>Microsoft Word</li><li>Microsoft Excel/Google Sheets</li><li>Quickbooks Pro</li><li>VSCode</li><li>Figma</li><li>Fusion360</li><li>Notion</li></ul>
+
+         <p>I've added some design examples from my past below. I understand that the position is for admin duties, not design work. I didn't feel it would hurt to show that I can assist in multiple ways if ever needed</p>
 
          <p>Thank you for your consideration and I look forward to hearing from you</p>
 
          <p>See resume and cover letter for contact information</p>
 
-         <h3>Technologies I've worked with</h3>
-         <ul><li>Adobe Photoshop</li><li>Adobe InDesign</li><li>Adobe Illustrator</li><li>Microsoft Word</li><li>Microsoft Excel/Google Sheets</li><li>Quickbooks Pro</li><li>VSCode</li><li>Figma</li><li>Fusion360</li><li>Notion</li></ul>
-
          <h3>My Resume</h3>
-         <object
-            type="application/pdf"
-            data="/nicholas-kunz-resume-design-office-admin.pdf"
-            width="100%"
-            className="pdf-object"
-         />
+         <img className="resume" src="/nicholas-kunz-resume-design-office-admin-non-pdf.png" alt="graphic of Nicholas Kunz's resume for this position" />
          <a
             href='/nicholas-kunz-resume-design-office-admin.pdf'
             download='nicholas-kunz-resume-design-office-admin.pdf'>
@@ -80,19 +76,12 @@ export default function DesignAdmin() {
          </a>
 
          <h3>Cover Letter</h3>
-         <object
-            type="application/pdf"
-            data="/nicholas-kunz-resume-design-office-admin-cover-letter.pdf"
-            width="100%"
-            className="pdf-object"
-         />
+         <img className="resume" src="/nicholas-kunz-cover-letter-design-office-admin-non-pdf.png" alt="graphic of Nicholas Kunz's cover letter for this position" />
          <a
-            href='/nicholas-kunz-resume-design-office-admin-cover-letter.pdf'
-            download='nicholas-kunz-resume-design-office-admin-cover-letter.pdf'>
+            href='/nicholas-kunz-cover-letter-design-office-admin.pdf'
+            download='nicholas-kunz-cover-letter-design-office-admin.pdf'>
             Download Cover Letter
          </a>
-
-         <aside className="excuse-me">Please excuse the quick pdf page formatting. Work in progress...</aside>
 
          <section className="design-examples">
             <h2>Design Examples</h2>
