@@ -55,7 +55,7 @@ export default function DesignAdmin() {
 
    return (
       <main className="design-admin">
-         <h1>Hello unnamed design office!</h1>
+         <h1>Hello design office!</h1>
          <h2>I am applying to your administration position</h2>
 
          <h3>Programs I've worked with</h3>
