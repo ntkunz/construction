@@ -61,8 +61,6 @@ export default function DesignAdmin() {
          <h3>Technologies I've worked with</h3>
          <ul><li>Adobe Photoshop</li><li>Adobe InDesign</li><li>Adobe Illustrator</li><li>Microsoft Word</li><li>Microsoft Excel/Google Sheets</li><li>Quickbooks Pro</li><li>VSCode</li><li>Figma</li><li>Fusion360</li><li>Notion</li></ul>
 
-         <p>I've added some design examples from my past below. I understand that the position is for admin duties, not design work. I didn't feel it would hurt to show that I can assist in multiple ways if ever needed</p>
-
          <p>Thank you for your consideration and I look forward to hearing from you</p>
 
          <p>See resume and cover letter for contact information</p>
@@ -82,6 +80,10 @@ export default function DesignAdmin() {
             download='nicholas-kunz-cover-letter-design-office-admin.pdf'>
             Download Cover Letter
          </a>
+
+
+         <p>I've added some design examples from my past below. I understand that the position is for admin duties, not design work, which is perfect for me. I didn't feel it would hurt to show that I can assist some in other ways if ever needed</p>
+
 
          <section className="design-examples">
             <h2>Design Examples</h2>
