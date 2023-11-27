@@ -47,7 +47,7 @@ export default function DesignAdmin() {
       {
          title: 'Forest Service Banner',
          role: 'Banner design',
-         images: ['public/design_images/fsbanner.png'],
+         images: ['/design_images/fsbanner.png'],
          description: 'My early steps into digital production, I had the chance to create a website for the US Forest Service. Here is a piece that has survived since that time many moons ago'
       }
    ]
