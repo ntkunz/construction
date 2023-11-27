@@ -55,10 +55,10 @@ export default function DesignAdmin() {
 
    return (
       <main className="design-admin">
-         <h1>Good day design office!</h1>
+         <h1>Hello unnamed design office!</h1>
          <h2>I am applying to your administration position</h2>
 
-         <h3>Technologies I've worked with</h3>
+         <h3>Programs I've worked with</h3>
          <ul><li>Adobe Photoshop</li><li>Adobe InDesign</li><li>Adobe Illustrator</li><li>Microsoft Word</li><li>Microsoft Excel/Google Sheets</li><li>Quickbooks Pro</li><li>VSCode</li><li>Figma</li><li>Fusion360</li><li>Notion</li></ul>
 
          <p>Thank you for your consideration and I look forward to hearing from you</p>
