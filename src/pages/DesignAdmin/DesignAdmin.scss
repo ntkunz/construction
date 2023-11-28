@@ -71,9 +71,15 @@ ul li {
 
 .design-item {
    border-radius: 0.5rem;
-   padding: 0.125rem 0.5rem 1rem 0.5rem;
+   padding: 0 0.5rem 1rem 0.5rem;
    margin: 0.5rem 0;
    background-color: rgba(145, 180, 154, 0.15);
+
+   &__title {
+      background: radial-gradient(rgba(0, 0, 0, 100), rgba(0, 0, 0, .5), rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
+      text-align: center;
+      border-radius: 0.25rem;
+   }
 
    &__image {
       max-width: 100%;

@@ -16,6 +16,16 @@ export default function DesignAdmin() {
          },
       },
       {
+         title: 'Edge City Woodworking School Website',
+         role: 'Design, layout, produce photo content, and structure class levels',
+         images: ['/design_images/edgecity-screenshot.png'],
+         description: 'A revamp and decluttering of the Edge City Woodworking School website and classes',
+         link: {
+            linkText: 'Visit website',
+            linkUrl: 'https://www.edgecitywoodworking.com/',
+         }
+      },
+      {
          title: 'Blood Wizard Board Catalog',
          role: 'Vectorized and colored graphics, print preparation, and card layout',
          images: ['/design_images/bw_catalog_2014.jpg'],
@@ -24,7 +34,7 @@ export default function DesignAdmin() {
       {
          title: 'Helping Neighbors',
          role: 'Web Design and Development',
-         images: [],
+         images: ['/design_images/helping-neighbors-screenshot.png'],
          description: 'A recent personal project to learn web development and design',
          link: {
             linkText: 'Visit website',
@@ -43,6 +53,12 @@ export default function DesignAdmin() {
          role: 'Layout and production',
          images: ['/design_images/reflections_screenthot.png', '/design_images/photography_book_spread.png', '/design_images/japan_book_spread.png', '/design_images/gift_horse_book_turning_page.jpg'],
          description: 'Some different personal and group zine and book projects from over the years'
+      },
+      {
+         title: 'Construction Related Projects',
+         role: 'General demo and reconstruction, walls, cabinets, doors, windows, etc',
+         images: ['/design_images/nich-buildilng-small-house-sized.jpg', '/design_images/nich_construction_ladder.jpeg', '/design_images/walnut-cabinet-install-in-progress.jpg'],
+         description: `I love buildling things, tangible, digital, and and all of it if it makes people's lives better`,
       },
       {
          title: 'Forest Service Banner',
